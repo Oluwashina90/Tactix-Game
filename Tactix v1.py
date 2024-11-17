@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 16 18:17:38 2024
 
-@author: oyeni
+@author: Oluwashina Oyeniran
 """
 
 import pygame
